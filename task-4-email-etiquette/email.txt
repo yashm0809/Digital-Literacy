@@ -1,0 +1,36 @@
+📧 Email 1 — Assignment Extension
+
+Subject: Extension Request
+
+Dear Professor ,
+
+I am writing to respectfully request a short extension on the submission deadline for the upcoming assignment. Due to unanticipated logistical challenges that have recently arisen, I require a little more time to ensure the quality of my work meets the course standards.
+
+Would it be possible to grant me a short extension to finalize the submission?. I have already completed the core logic of the task and only need this extra time for final debugging and documentation.
+
+Thank you for your time and for your understanding.
+
+Best regards,
+
+[Yash Modi]
+
+[25BAI11144]
+
+[CSE (AIML)]
+
+✉️ EMAIL 2 — Internship Request
+
+Dear Sir/Ma’am,
+
+I am a first-year BTech student specializing in AI and Machine Learning. I am writing to express my interest in potential summer internship opportunities within your team.
+
+I am eager to apply my foundational knowledge of Python and data analysis to a professional environment. I am highly motivated, quick to learn, and would welcome the chance to contribute to your team's ongoing projects while developing my professional skills.
+
+I would appreciate the opportunity to discuss how my background and enthusiasm for technology could benefit your organization this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Yash Modi
+
